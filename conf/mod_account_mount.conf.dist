@@ -1,13 +1,13 @@
 [worldserver]
 
 ###################################################################################################
-#	Account Mounts module
+#	账户坐骑模块
 ###################################################################################################
 
-# Enable the module? (1: true | 0: false)
+# 启用模块？ (1: 是 | 0: 否)
 
 Account.Mounts.Enable = 1
 
-# Announce the module when the player logs in?
+# 玩家登录时公告模块？
 
 Account.Mounts.Announce = 0
